@@ -30,7 +30,9 @@
         "express-handlebars": "^6.0.2"
     },
     "lint-staged": {
-        "src/**/*.{js,json,scss}": "prettier --single-quote --trailing-comma all --tab-width 4 --write"
+        "src/**/*.{js,json,scss}": [
+            "prettier --single-quote --trailing-comma all --tab-width 4 --write"
+        ]
     },
     "devDependencies": {
         "husky": "^7.0.4",
