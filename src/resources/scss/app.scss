@@ -3,3 +3,27 @@
 h1 {
     color: $red-color;
 }
+
+.user-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+
+.checkbox-select-all-options {
+    margin: 0 16px;
+    width: 200px;
+}
+
+.btn-private {
+    background: #343a40;
+    border: none;
+}
+
+.course-description {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}
