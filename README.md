@@ -1,4 +1,5 @@
 # Courses Management
 ## Hướng dẫn sử dụng
 #### Clone git repository
-- Chạy lệnh `git clone https://github.com/ducducqn123/Website-Selling-Food.git`
+- Mở GitBash tại thư mục muốn cài đặt.
+- Chạy lệnh `git clone https://github.com/trong-khanh-1109/Courses_Management.git`
