@@ -1,2 +1,2 @@
-# NodeJS_Blog
+# Courses Management
 Learn NodeJS at F8
