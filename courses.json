@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "6205d7c7caf0aa5b4cbc9ffa"
+  },
+  "name": "Node & ExpressJS",
+  "description": "Học Back-end với Node & ExpressJS framework, hiểu các khái niệm khi làm Back-end và xây dựng RESTful API cho trang web.",
+  "image": "https://i.ytimg.com/vi/z2f7RHgvddc/maxresdefault.jpg",
+  "videoId": "z2f7RHgvddc",
+  "level": "Trình độ cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-11T03:28:07.301Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-11T14:21:35.456Z"
+  },
+  "slug": "node-and-expressjs",
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-02-11T14:18:40.664Z"
+  }
+},{
+  "_id": {
+    "$oid": "6205d912caf0aa5b4cbca008"
+  },
+  "name": "Kiến Thức Nhập Môn IT",
+  "description": "Để có cái nhìn tổng quan về ngành IT - Lập trình web các bạn nên xem các videos tại khóa này trước nhé.",
+  "image": "https://i.ytimg.com/vi/M62l1xA5Eu8/maxresdefault.jpg",
+  "videoId": "M62l1xA5Eu8",
+  "level": "Trình độ cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-11T03:33:38.981Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-11T14:21:35.456Z"
+  },
+  "slug": "kien-thuc-nhap-mon-it",
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-02-11T14:18:40.664Z"
+  }
+},{
+  "_id": {
+    "$oid": "6205d960caf0aa5b4cbca010"
+  },
+  "name": "HTML, CSS từ Zero đến Hero",
+  "description": "Trong khóa này chúng ta sẽ cùng nhau xây dựng giao diện 2 trang web là The Band & Shopee.",
+  "image": "https://i.ytimg.com/vi/R6plN3FvzFY/maxresdefault.jpg",
+  "videoId": "R6plN3FvzFY",
+  "level": "Trình độ cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-11T03:34:56.346Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-11T14:21:35.456Z"
+  },
+  "slug": "html-css-tu-zero-den-hero",
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-02-11T14:18:40.664Z"
+  }
+},{
+  "_id": {
+    "$oid": "6205d9a8caf0aa5b4cbca016"
+  },
+  "name": "Responsive Với Grid System",
+  "description": "Trong khóa này chúng ta sẽ học về cách xây dựng giao diện web responsive với Grid System, tương tự Bootstrap 4.",
+  "image": "https://i.ytimg.com/vi/uz5LIP85J5Y/maxresdefault.jpg",
+  "videoId": "uz5LIP85J5Y",
+  "level": "Trình độ cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-11T03:36:08.056Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-11T14:21:35.456Z"
+  },
+  "slug": "responsive-voi-grid-system",
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-02-11T14:18:40.664Z"
+  }
+},{
+  "_id": {
+    "$oid": "6205da01caf0aa5b4cbca01c"
+  },
+  "name": "HTML, CSS Tips & Tricks",
+  "description": "Tutorials về HTML, CSS, UI, UX sẽ được tổng hợp tại khóa học này, các video có nội dung ngắn gọn, súc tích giúp học viên có thể ứng dụng ngay vào thực tế",
+  "image": "https://i.ytimg.com/vi/nB6cJh_bb1U/maxresdefault.jpg",
+  "videoId": "nB6cJh_bb1U",
+  "level": "Trình độ cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-11T03:37:37.091Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-11T14:21:35.456Z"
+  },
+  "slug": "html-css-tips-and-tricks",
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-02-11T14:18:40.664Z"
+  }
+},{
+  "_id": {
+    "$oid": "6205da32caf0aa5b4cbca022"
+  },
+  "name": "JavaScript Cơ Bản",
+  "description": "Học Javascript cơ bản phù hợp cho người chưa từng học lập trình. Với hơn 100 bài học và có bài tập thực hành sau mỗi bài học.",
+  "image": "https://i.ytimg.com/vi/0SJE9dYdpps/maxresdefault.jpg",
+  "videoId": "0SJE9dYdpps",
+  "level": "Trình độ cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-11T03:38:26.990Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-11T14:21:35.456Z"
+  },
+  "slug": "javascript-co-ban",
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-02-11T14:18:40.664Z"
+  }
+},{
+  "_id": {
+    "$oid": "6205da82caf0aa5b4cbca028"
+  },
+  "name": "JavaScript Nâng Cao",
+  "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ...",
+  "image": "https://i.ytimg.com/vi/MGhw6XliFgo/maxresdefault.jpg",
+  "videoId": "MGhw6XliFgo",
+  "level": "Trình độ trung bình",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-11T03:39:46.704Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-11T14:21:35.456Z"
+  },
+  "slug": "javascript-nang-cao",
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-02-11T14:18:40.664Z"
+  }
+},{
+  "_id": {
+    "$oid": "6205db57104a87ae94cf0c49"
+  },
+  "name": "Xây Dựng Website với ReactJS",
+  "description": "Khóa học ReactJS từ cơ bản tới nâng cao, kết quả của khóa học này là bạn có thể làm hầu hết các dự án thường gặp với ReactJS. Cuối khóa học này bạn sẽ sở hữu một dự án giống Tiktok.com, bạn có thể tự tin đi xin việc khi nắm chắc các kiến thức được chia sẻ trong khóa học này.",
+  "image": "https://i.ytimg.com/vi/x0fSBAgBrOQ/maxresdefault.jpg",
+  "videoId": "x0fSBAgBrOQ",
+  "level": "Trình độ cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-11T03:43:19.316Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-11T14:21:35.456Z"
+  },
+  "slug": "xay-dung-website-voi-reactjs",
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-02-11T14:18:40.664Z"
+  }
+}]
