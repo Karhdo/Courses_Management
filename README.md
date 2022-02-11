@@ -8,4 +8,4 @@
 - Sau đó import Database [courses.json](./courses.json) vào ProjectDB vừa tạo.
 #### Run code:
 - Mở terminal tại folder Blog -> hiện lệnh `npm run start` (Code được chạy ở port 3000).
-- Mở thêm một mới terminal tại folder Blog -> thực hiện lệnh `npm run watch` để nhận được thay đổi css của source code.
+- Mở thêm một mới terminal tại folder Blog -> thực hiện lệnh `npm run watch` để chạy csss.
