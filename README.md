@@ -10,3 +10,6 @@
 - Mở terminal tại folder Blog -> hiện lệnh `npm run start` (Code được chạy ở port 3000).
 - Mở thêm một mới terminal tại folder Blog -> thực hiện lệnh `npm run watch` để chạy **SCSS**.
 ## Demo
+<p align='center'>
+  <img style='width: 80%' src='https://github.com/trong-khanh-1109/Study-Web-at-F8/blob/main/Image/NodeJS.png' />
+</p>
